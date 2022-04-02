@@ -17,6 +17,6 @@ var coordenadas = () => {
 }
  
 btnyes.addEventListener('click', () => {
-    alert('Asi me gusta');
+    alert('XD, El sabado 09 de abril,justo para tu cumple, te espero bb :* ');
 
 });
